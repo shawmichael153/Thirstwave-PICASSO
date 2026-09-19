@@ -82,4 +82,10 @@ A historical baseline was developed to determine what constitutes anomalously hi
 
 For each CESM2 ensemble member and grid cell, daily ETos values were grouped by calendar day and used to calculate the 90th percentile of ETos. A 15-day moving window was then applied to smooth the daily percentile threshold and account for the seasonal cycle of atmospheric evaporative demand. 
 
-The ensemble members and historical years were subsequently combined to establish a common historical ETos climatology across the CONUS. This climatological threshold provides the baseline against which historical and future ETos conditions were evaluated. 
+The ensemble members and historical years were subsequently combined to establish a common historical ETos climatology across the CONUS. This climatological threshold provides the baseline against which historical and future ETos conditions were evaluated. More on this can be found at ```90th_ZARR.py```. 
+
+### **Transition to Thirstwave Event Analysis**
+
+The first three stages of the workflow establish the primary datasets required for the Thirstwave analysis: daily ETos and the historical 90th-percentile ETos climatology. These steps follow a relatively direct progression from the original CESM2-LE data to the variables needed for event identification.
+
+The remainder of the workflow becomes more computationally involved, as the daily ETos and historical threshold datasets are used to identify individual Thirstwave events and derive their characteristics. Therefore, the following sections provide a more detailed description of the code used to construct the intermediate Zarr datasets and final CSV event catalog, including how threshold exceedances were identified, how consecutive exceedances were grouped into individual events, and how event-level frequency, duration, and intensity metrics were ultimately derived.
