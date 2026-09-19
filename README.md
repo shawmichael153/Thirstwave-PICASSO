@@ -35,7 +35,7 @@ The project was designed to investigate how Thirstwave characteristics evolve ac
 
 - Establish a foundation for future investigation of the physical mechanisms, regional impacts, and potential applications of Thirstwaves. 
 
-## Project Workflow
+## Project Workflow and Associated Scripts
 
 To investigate the evolution of Thirstwave characteristics across the CONUS, we developed a multi-step workflow using daily CESM2 Large Ensemble output. The workflow progressed from acquiring and organizing the raw climate model data to calculating atmospheric evaporative demand, establishing a historical climatological threshold, identifying individual Thirstwave events, and finally extracting event-level characteristics for analysis. 
 
