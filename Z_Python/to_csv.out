@@ -1,0 +1,181 @@
+nohup: ignoring input
+
+==============================
+Processing HIST dataset
+==============================
+HIST | AMOC 1231 | Member 001
+HIST | AMOC 1231 | Member 002
+HIST | AMOC 1231 | Member 003
+HIST | AMOC 1231 | Member 004
+HIST | AMOC 1231 | Member 005
+HIST | AMOC 1231 | Member 006
+HIST | AMOC 1231 | Member 007
+HIST | AMOC 1231 | Member 008
+HIST | AMOC 1231 | Member 009
+HIST | AMOC 1231 | Member 010
+HIST | AMOC 1231 | Member 011
+HIST | AMOC 1231 | Member 012
+HIST | AMOC 1231 | Member 013
+HIST | AMOC 1231 | Member 014
+HIST | AMOC 1231 | Member 015
+HIST | AMOC 1231 | Member 016
+HIST | AMOC 1231 | Member 017
+HIST | AMOC 1231 | Member 018
+HIST | AMOC 1231 | Member 019
+HIST | AMOC 1231 | Member 020
+HIST | AMOC 1251 | Member 001
+HIST | AMOC 1251 | Member 002
+HIST | AMOC 1251 | Member 003
+HIST | AMOC 1251 | Member 004
+HIST | AMOC 1251 | Member 005
+HIST | AMOC 1251 | Member 006
+HIST | AMOC 1251 | Member 007
+HIST | AMOC 1251 | Member 008
+HIST | AMOC 1251 | Member 009
+HIST | AMOC 1251 | Member 010
+HIST | AMOC 1251 | Member 011
+HIST | AMOC 1251 | Member 012
+HIST | AMOC 1251 | Member 013
+HIST | AMOC 1251 | Member 014
+HIST | AMOC 1251 | Member 015
+HIST | AMOC 1251 | Member 016
+HIST | AMOC 1251 | Member 017
+HIST | AMOC 1251 | Member 018
+HIST | AMOC 1251 | Member 019
+HIST | AMOC 1251 | Member 020
+HIST | AMOC 1281 | Member 001
+HIST | AMOC 1281 | Member 002
+HIST | AMOC 1281 | Member 003
+HIST | AMOC 1281 | Member 004
+HIST | AMOC 1281 | Member 005
+HIST | AMOC 1281 | Member 006
+HIST | AMOC 1281 | Member 007
+HIST | AMOC 1281 | Member 008
+HIST | AMOC 1281 | Member 009
+HIST | AMOC 1281 | Member 010
+HIST | AMOC 1281 | Member 011
+HIST | AMOC 1281 | Member 012
+HIST | AMOC 1281 | Member 013
+HIST | AMOC 1281 | Member 014
+HIST | AMOC 1281 | Member 015
+HIST | AMOC 1281 | Member 016
+HIST | AMOC 1281 | Member 017
+HIST | AMOC 1281 | Member 018
+HIST | AMOC 1281 | Member 019
+HIST | AMOC 1281 | Member 020
+HIST | AMOC 1301 | Member 001
+HIST | AMOC 1301 | Member 002
+HIST | AMOC 1301 | Member 003
+HIST | AMOC 1301 | Member 004
+HIST | AMOC 1301 | Member 005
+HIST | AMOC 1301 | Member 006
+HIST | AMOC 1301 | Member 007
+HIST | AMOC 1301 | Member 008
+HIST | AMOC 1301 | Member 009
+HIST | AMOC 1301 | Member 010
+HIST | AMOC 1301 | Member 011
+HIST | AMOC 1301 | Member 012
+HIST | AMOC 1301 | Member 013
+HIST | AMOC 1301 | Member 014
+HIST | AMOC 1301 | Member 015
+HIST | AMOC 1301 | Member 016
+HIST | AMOC 1301 | Member 017
+HIST | AMOC 1301 | Member 018
+HIST | AMOC 1301 | Member 019
+HIST | AMOC 1301 | Member 020
+
+-------------------------------------
+HIST COMPLETE
+Total events written: 35,159,902
+Saved to: /data1/michsh/CSV/HIST_derived_metrics_2.csv
+-------------------------------------
+
+==============================
+Processing FUT dataset
+==============================
+FUT | AMOC 1231 | Member 001
+FUT | AMOC 1231 | Member 002
+FUT | AMOC 1231 | Member 003
+FUT | AMOC 1231 | Member 004
+FUT | AMOC 1231 | Member 005
+FUT | AMOC 1231 | Member 006
+FUT | AMOC 1231 | Member 007
+FUT | AMOC 1231 | Member 008
+FUT | AMOC 1231 | Member 009
+FUT | AMOC 1231 | Member 010
+FUT | AMOC 1231 | Member 011
+FUT | AMOC 1231 | Member 012
+FUT | AMOC 1231 | Member 013
+FUT | AMOC 1231 | Member 014
+FUT | AMOC 1231 | Member 015
+FUT | AMOC 1231 | Member 016
+FUT | AMOC 1231 | Member 017
+FUT | AMOC 1231 | Member 018
+FUT | AMOC 1231 | Member 019
+FUT | AMOC 1231 | Member 020
+FUT | AMOC 1251 | Member 001
+FUT | AMOC 1251 | Member 002
+FUT | AMOC 1251 | Member 003
+FUT | AMOC 1251 | Member 004
+FUT | AMOC 1251 | Member 005
+FUT | AMOC 1251 | Member 006
+FUT | AMOC 1251 | Member 007
+FUT | AMOC 1251 | Member 008
+FUT | AMOC 1251 | Member 009
+FUT | AMOC 1251 | Member 010
+FUT | AMOC 1251 | Member 011
+FUT | AMOC 1251 | Member 012
+FUT | AMOC 1251 | Member 013
+FUT | AMOC 1251 | Member 014
+FUT | AMOC 1251 | Member 015
+FUT | AMOC 1251 | Member 016
+FUT | AMOC 1251 | Member 017
+FUT | AMOC 1251 | Member 018
+FUT | AMOC 1251 | Member 019
+FUT | AMOC 1251 | Member 020
+FUT | AMOC 1281 | Member 001
+FUT | AMOC 1281 | Member 002
+FUT | AMOC 1281 | Member 003
+FUT | AMOC 1281 | Member 004
+FUT | AMOC 1281 | Member 005
+FUT | AMOC 1281 | Member 006
+FUT | AMOC 1281 | Member 007
+FUT | AMOC 1281 | Member 008
+FUT | AMOC 1281 | Member 009
+FUT | AMOC 1281 | Member 010
+FUT | AMOC 1281 | Member 011
+FUT | AMOC 1281 | Member 012
+FUT | AMOC 1281 | Member 013
+FUT | AMOC 1281 | Member 014
+FUT | AMOC 1281 | Member 015
+FUT | AMOC 1281 | Member 016
+FUT | AMOC 1281 | Member 017
+FUT | AMOC 1281 | Member 018
+FUT | AMOC 1281 | Member 019
+FUT | AMOC 1281 | Member 020
+FUT | AMOC 1301 | Member 001
+FUT | AMOC 1301 | Member 002
+FUT | AMOC 1301 | Member 003
+FUT | AMOC 1301 | Member 004
+FUT | AMOC 1301 | Member 005
+FUT | AMOC 1301 | Member 006
+FUT | AMOC 1301 | Member 007
+FUT | AMOC 1301 | Member 008
+FUT | AMOC 1301 | Member 009
+FUT | AMOC 1301 | Member 010
+FUT | AMOC 1301 | Member 011
+FUT | AMOC 1301 | Member 012
+FUT | AMOC 1301 | Member 013
+FUT | AMOC 1301 | Member 014
+FUT | AMOC 1301 | Member 015
+FUT | AMOC 1301 | Member 016
+FUT | AMOC 1301 | Member 017
+FUT | AMOC 1301 | Member 018
+FUT | AMOC 1301 | Member 019
+FUT | AMOC 1301 | Member 020
+
+-------------------------------------
+FUT COMPLETE
+Total events written: 56,172,458
+Saved to: /data1/michsh/CSV/FUT_derived_metrics_2.csv
+-------------------------------------
